@@ -1,5 +1,7 @@
 # Web-Scraper-for-house-plants
-Extracts Name and Info Link from whatflower.net and extracts to xlsx file.
+Extracts Name and Info Link from whatflower.net and exports to xlsx file.
+
+Very simple common code used for web scraping, changed a little to extract the information from that site. Maybe Ill do some updates in the future since its a very simple project fir beginners.
 
 You will need the following libraries installed:
 
