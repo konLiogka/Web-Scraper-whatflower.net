@@ -8,5 +8,6 @@ You will need the following libraries installed:
 1. BeautifulSoup4
 2. Pandas
 3. Requests
+4. Openpyxl
 
 Can be installed with pip.
